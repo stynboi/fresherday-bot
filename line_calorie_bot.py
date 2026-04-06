@@ -146,7 +146,7 @@ def setup_rich_menu():
         "size": {"width": 2500, "height": 1686},
         "selected": True,
         "name": "Fresherday Menu",
-        "chatBarText": "🍽 เมนู Fresherday",
+        "chatBarText": "เมนู Fresherday",
         "areas": [
             {
                 "bounds": {"x": 0, "y": 0, "width": 1250, "height": 843},
